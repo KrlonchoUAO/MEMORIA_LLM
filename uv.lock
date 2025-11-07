@@ -1121,6 +1121,7 @@ dependencies = [
     { name = "langgraph" },
     { name = "pydantic" },
     { name = "streamlit" },
+    { name = "typing-extensions" },
 ]
 
 [package.metadata]
@@ -1133,6 +1134,7 @@ requires-dist = [
     { name = "langgraph", specifier = ">=1.0.2" },
     { name = "pydantic", specifier = ">=2.12.4" },
     { name = "streamlit", specifier = ">=1.51.0" },
+    { name = "typing-extensions", specifier = ">=4.15.0" },
 ]
 
 [[package]]
